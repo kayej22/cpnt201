@@ -1,0 +1,21 @@
+main, footer {
+  width: 80vw;
+  max-width: 95ch;
+  margin: 1rem auto;
+}
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 3rem auto;
+  border: 3px solid black;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1500px;
+  margin: auto;
+}
